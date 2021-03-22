@@ -1,0 +1,32 @@
+body {
+    background-color: #76b900;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+h1, h2, h3 {
+    color:black;
+    font-family: verdana;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#maintext {
+    color: black;
+    font-family: arial;
+    text-align: justify;
+}
+
+.fullWidthContent {
+    width:100%;
+}
+
+a {
+    font-size:35px;
+}
+
+.anchorLarge {
+    color: chartreuse;
+    font-size:35px;
+    padding: 80px;
+}
